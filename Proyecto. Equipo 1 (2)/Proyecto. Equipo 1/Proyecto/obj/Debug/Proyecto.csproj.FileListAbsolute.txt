@@ -1,0 +1,30 @@
+C:\Users\Peceta\Documents\SharpDevelop Projects\Proyecto\Proyecto\obj\Debug\Proyecto.csprojResolveAssemblyReference.cache
+C:\Users\Peceta\Documents\SharpDevelop Projects\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\Peceta\Documents\SharpDevelop Projects\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\Peceta\Documents\SharpDevelop Projects\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\Peceta\Documents\SharpDevelop Projects\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\Peceta\Documents\SharpDevelop Projects\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\Damian\Documents\Estudios\Universidad\2do año\1er Cuatrimestre\Algoritmos y programacion\Proyecto\Proyecto gonza\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\Damian\Documents\Estudios\Universidad\2do año\1er Cuatrimestre\Algoritmos y programacion\Proyecto\Proyecto gonza\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\Damian\Documents\Estudios\Universidad\2do año\1er Cuatrimestre\Algoritmos y programacion\Proyecto\Proyecto gonza\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\Damian\Documents\Estudios\Universidad\2do año\1er Cuatrimestre\Algoritmos y programacion\Proyecto\Proyecto gonza\Proyecto\obj\Debug\Proyecto.csprojResolveAssemblyReference.cache
+C:\Users\Damian\Documents\Estudios\Universidad\2do año\1er Cuatrimestre\Algoritmos y programacion\Proyecto\Proyecto gonza\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\Damian\Documents\Estudios\Universidad\2do año\1er Cuatrimestre\Algoritmos y programacion\Proyecto\Proyecto gonza\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\Peceta\Desktop\Proyecto (1)\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\Peceta\Desktop\Proyecto (1)\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\Peceta\Desktop\Proyecto (1)\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\Peceta\Desktop\Proyecto (1)\Proyecto\obj\Debug\Proyecto.csprojResolveAssemblyReference.cache
+C:\Users\Peceta\Desktop\Proyecto (1)\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\Peceta\Desktop\Proyecto (1)\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\Peceta\Desktop\Proyecto (1)\Proyecto (1)\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\Peceta\Desktop\Proyecto (1)\Proyecto (1)\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\Peceta\Desktop\Proyecto (1)\Proyecto (1)\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\Peceta\Desktop\Proyecto (1)\Proyecto (1)\Proyecto\obj\Debug\Proyecto.csprojResolveAssemblyReference.cache
+C:\Users\Peceta\Desktop\Proyecto (1)\Proyecto (1)\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\Peceta\Desktop\Proyecto (1)\Proyecto (1)\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\Peceta\Desktop\Proyecto (1) (1)\Proyecto (1)\Proyecto (1)\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\Peceta\Desktop\Proyecto (1) (1)\Proyecto (1)\Proyecto (1)\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\Peceta\Desktop\Proyecto (1) (1)\Proyecto (1)\Proyecto (1)\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\Peceta\Desktop\Proyecto (1) (1)\Proyecto (1)\Proyecto (1)\Proyecto\obj\Debug\Proyecto.csprojResolveAssemblyReference.cache
+C:\Users\Peceta\Desktop\Proyecto (1) (1)\Proyecto (1)\Proyecto (1)\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\Peceta\Desktop\Proyecto (1) (1)\Proyecto (1)\Proyecto (1)\Proyecto\obj\Debug\Proyecto.pdb
