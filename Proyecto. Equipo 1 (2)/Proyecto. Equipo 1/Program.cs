@@ -1,11 +1,6 @@
 ﻿/* 
  Integrantes:
              Corsiglia Gonzalo
-             Lucas Tortolini
-  Nota:
-       Debido a la complejidad del proyecto puede que se nos escape algun detalle, pero creemos que esta bastante completo.
-       Estamos atentos a cualquier duda o correccion que pueda darnos para mejorarlo si ese es el caso.
-       Desde ya muchas Gracias. Atte. Lucas y Gonza
 	        
 
  */
